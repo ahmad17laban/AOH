@@ -1,3 +1,13 @@
+/* for Javascript validation */
+#error_msg{
+    margin: 20px;
+    padding: 0px;
+    background-color: #fe8b8e;
+    text-align: center;
+    font-size: 14px;
+    transition: all 0.5s ease;
+    
+}
 body {
 	font-size: 14px;
 	color: #333;
@@ -57,7 +67,6 @@ body {
 }
 .titleMessage .heading .main{
 	font-size: 50px;
-}
 }
 .titleMessage .heading .sub{
 	font-size: 23px;
